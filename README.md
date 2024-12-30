@@ -41,7 +41,7 @@ python src/multi_tool.py
 2. pkg install python
 3. pkg install git
 4. git clone https://github.com/Blanknetework/Multi-Tool.git
-5. cd multi-tool-app
+5. cd Multi-Tool
 6. pip install -r requirements.txt
 7. python src/multi_tool.py
 
