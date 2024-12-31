@@ -1,6 +1,6 @@
 # Multi-Tool Application
 
-This multi-tool application provides a variety of utilities for users, including WiFi lookup, IP lookup, webhook sending, password generation, and WiFi brute force capabilities. Each tool is designed to be user-friendly and accessible via a terminal interface.
+This multi-tool application provides a variety of utilities for users, including WiFi lookup, IP lookup, webhook sending, password generator, and WiFi brute force capabilities. Each tool is designed to be user-friendly and accessible via a terminal interface.
 
 ![Multi-Tool Screenshot](src/images/multi-tool.png)
 
